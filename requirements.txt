@@ -1,5 +1,6 @@
 tensorflow
 pillow
+numpy
 ipdb
 opencv-python
 scikit-image
